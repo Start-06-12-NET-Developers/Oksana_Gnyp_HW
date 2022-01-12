@@ -1,0 +1,14 @@
+C:\Users\geo\source\repos\Essential\dz1\Address\obj\Debug\Address.csproj.AssemblyReference.cache
+C:\Users\geo\source\repos\Essential\dz1\Address\obj\Debug\Address.csproj.CoreCompileInputs.cache
+C:\Users\geo\source\repos\Essential\dz1\Address\bin\Debug\Address.exe.config
+C:\Users\geo\source\repos\Essential\dz1\Address\bin\Debug\Address.exe
+C:\Users\geo\source\repos\Essential\dz1\Address\bin\Debug\Address.pdb
+C:\Users\geo\source\repos\Essential\dz1\Address\obj\Debug\Address.exe
+C:\Users\geo\source\repos\Essential\dz1\Address\obj\Debug\Address.pdb
+D:\Ментор\06.12 (900) .Net Dev\Юрий Дуский\Базовый 1\dz1\Address\bin\Debug\Address.exe.config
+D:\Ментор\06.12 (900) .Net Dev\Юрий Дуский\Базовый 1\dz1\Address\bin\Debug\Address.exe
+D:\Ментор\06.12 (900) .Net Dev\Юрий Дуский\Базовый 1\dz1\Address\bin\Debug\Address.pdb
+D:\Ментор\06.12 (900) .Net Dev\Юрий Дуский\Базовый 1\dz1\Address\obj\Debug\Address.csproj.AssemblyReference.cache
+D:\Ментор\06.12 (900) .Net Dev\Юрий Дуский\Базовый 1\dz1\Address\obj\Debug\Address.csproj.CoreCompileInputs.cache
+D:\Ментор\06.12 (900) .Net Dev\Юрий Дуский\Базовый 1\dz1\Address\obj\Debug\Address.exe
+D:\Ментор\06.12 (900) .Net Dev\Юрий Дуский\Базовый 1\dz1\Address\obj\Debug\Address.pdb
